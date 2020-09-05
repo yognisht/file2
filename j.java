@@ -1,7 +1,6 @@
 
-import system.io.*;
 
-public class abc {
+public class j {
 
 public static void main (String args[])
 	{
